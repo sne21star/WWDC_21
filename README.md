@@ -11,7 +11,6 @@ Swift Student Challenge
 
 
 ## HOW TO PLAY THE GAME
-–––––––––––––––––––––
 
 ### Score Points - 
 * In order to score points you must matches the antibody with the antigen or the vaccine to the coronavirus. Killing an antigen will score you 15 points. 
@@ -49,5 +48,4 @@ Swift Student Challenge
 
 
 ## ABOUT THE AUTHOR
-––––––––––––––––
 Sneha Mahapatra is a recent graduate of Purdue University and is now a graduate student at the University of Massachusetts, Amherst where she plans on becoming a software engineer with interest in Artifical Intelligence, Neural Nets, and Computer Vision. 
