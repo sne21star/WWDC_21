@@ -19,7 +19,7 @@ Swift Student Challenge
 * Destorying a coronavirus will score you 20 points. Move the vaccines and antibodies by clicking and dragging. 
 
 ### Losing Points -
-* You will lose points if you connect the coronavirus hits the blood cells. 
+* You will lose points if the coronavirus hits the blood cells. 
 
 ### Antigens -
 * There are 4 different antigens. Each antigen has a specific epitope and different color. 
