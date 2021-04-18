@@ -1,7 +1,7 @@
 # WWDC_21
 Swift Student Challenge
 
-![Coronavirus Game](./images/gameBeginning)
+![Coronavirus Game](./images/gameBeginning.png)
 
 ## Features 
 *Sprite Nodes:* 
@@ -29,7 +29,7 @@ Swift Student Challenge
 ### Antibody -
 * There are 4 different antibodies for each antigen. The colors are similar to virus. The paratope of the antibody must match with the epitope of the antigen to kill it 
 
-![Code and the Game](./images/code)
+![Code and the Game](./images/code.png)
 
 ### Coronavirus + Vaccine -
 * The coronavirus are the viruses more than 8  Both purple and teal. They are the most dangerous virus and can only be killed by the vaccines. If the coronavirus hits the bloodCell you will lose 15 points. 
