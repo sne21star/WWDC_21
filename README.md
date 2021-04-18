@@ -54,4 +54,4 @@ Swift Student Challenge
 
 
 ## ABOUT THE AUTHOR
-Sneha Mahapatra is a recent graduate of Purdue University and is now a graduate student at the University of Massachusetts, Amherst where she plans on becoming a software engineer with interest in Artifical Intelligence, Neural Nets, and Computer Vision. 
+Sneha Mahapatra is a recent graduate of Purdue University and is now a graduate student at the University of Massachusetts, Amherst where she plans on becoming a software engineer with interest in Artifical Intelligence and Computer Vision. 
